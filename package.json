@@ -1,0 +1,13 @@
+{
+  "name": "al-live-network",
+  "version": "1.0.0",
+  "description": "AL Live Network Chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
